@@ -75,7 +75,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## ✨ Auteur
 
-[Votre Nom] - [Votre Email]
+Steventog
 
 ## 🙏 Remerciements
 
